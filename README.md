@@ -13,7 +13,7 @@
 
 [Here](https://github.com/nhan2892005/LinearAlgebra-HammingCode_in_Python/blob/main/Paper_HammingCode.pdf)
 
-## <a name="evaluate">🤸 Evaluation</a>
+## <a name="evaluate">🔍 Evaluation</a>
 
 9/10 Review by Master Nguyễn Hữu Hiệp, Ho Chi Minh City University of Technology - Viet Nam National University Ho Chi Minh City
 
